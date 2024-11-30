@@ -1,8 +1,6 @@
 import requests
 
 urls = [
-    "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
-    "https://big.oisd.nl"
     "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt"
 ]
 
